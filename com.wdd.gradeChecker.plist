@@ -7,7 +7,7 @@
 	<key>ProgramArguments</key>
 	<array>
 		<string>python</string>
-		<string>/Users/randyhartzell/Documents/gradeChecker.py</string>
+		<string>/U/r/D/gradeChecker.py</string>
 	</array>
 	<key>StartInterval</key>
 	<integer>1200</integer>
